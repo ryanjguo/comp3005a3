@@ -96,4 +96,4 @@ def deleteStudent(student_id):
 # getAllStudents()
 # addStudent("LeBron", "James", "lebron.james@example.com", "2024-03-18")
 # updateStudentEmail(7, "updated_email@example.com")
-deleteStudent(6)
+# deleteStudent(6)
